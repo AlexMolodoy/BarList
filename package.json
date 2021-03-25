@@ -1,4 +1,5 @@
 {
+  "homepage" : "https://alexmolodoy.github.io/BarList",
   "name": "barlist",
   "version": "0.1.0",
   "private": true,
